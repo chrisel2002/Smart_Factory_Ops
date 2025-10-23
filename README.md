@@ -1,2 +1,3 @@
-# Smart_Factory_Ops
-End-to-end Predictive Maintenance and BI Suite integrating React, Node.js, Python, R, MATLAB, Power BI, and MySQL.
+# Smart Factory Ops – Predictive Maintenance & Business Intelligence Suite
+A full-stack analytics platform integrating React, Node.js, Python, R, MATLAB, Power BI, and MySQL to predict equipment failures and visualize business KPIs for smart manufacturing.
+
